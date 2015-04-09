@@ -40,6 +40,8 @@ gem 'neat'
 
 
 gem 'mina'
+
+gem 'pg', '~> 0.18.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
